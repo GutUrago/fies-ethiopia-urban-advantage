@@ -1,0 +1,22 @@
+{
+  "title": "The Fragility of the Urban Advantage: Replication Code",
+  "description": "R code to reproduce the results of \"The Fragility of the Urban Advantage: Vulnerability to Food Insecurity under Systemic Shocks\". Analysis of FAO Food Insecurity Experience Scale (FIES) data for Ethiopia (2014–2023): Rasch models, prevalence trends, and survey-weighted logistic regressions of the urban–rural food insecurity gap during systemic shocks. The FIES microdata are not included and are available from the FAO Microdata Catalogue (https://microdata.fao.org).",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Urago, Gutama Girja",
+      "affiliation": "Laterite"
+    }
+  ],
+  "license": "mit",
+  "access_right": "open",
+  "keywords": [
+    "food security",
+    "FIES",
+    "Ethiopia",
+    "urban-rural",
+    "Rasch model",
+    "survey weights",
+    "R"
+  ]
+}

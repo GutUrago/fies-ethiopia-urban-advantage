@@ -1,0 +1,14 @@
+# R / RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# FAO FIES microdata and derived data (not redistributable)
+2_data_raw/**/*.RData
+2_data_raw/**/*.dta
+2_data_raw/**/*.sav
+3_data_clean/data.rds
+
+# Generated outputs
+4_outputs/
